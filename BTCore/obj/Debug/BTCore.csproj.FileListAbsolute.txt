@@ -1,0 +1,9 @@
+D:\OneDrive\Programare\visualStudio\BudgetTracker\BTCore\obj\Debug\BTCore.csprojAssemblyReference.cache
+D:\OneDrive\Programare\visualStudio\BudgetTracker\BTCore\obj\Debug\BTCore.csproj.CoreCompileInputs.cache
+D:\OneDrive\Programare\visualStudio\BudgetTracker\BTCore\bin\Debug\BTCore.dll.config
+D:\OneDrive\Programare\visualStudio\BudgetTracker\BTCore\bin\Debug\BTCore.dll
+D:\OneDrive\Programare\visualStudio\BudgetTracker\BTCore\bin\Debug\BTCore.pdb
+D:\OneDrive\Programare\visualStudio\BudgetTracker\BTCore\bin\Debug\System.Data.SQLite.dll
+D:\OneDrive\Programare\visualStudio\BudgetTracker\BTCore\obj\Debug\BTCore.csproj.CopyComplete
+D:\OneDrive\Programare\visualStudio\BudgetTracker\BTCore\obj\Debug\BTCore.dll
+D:\OneDrive\Programare\visualStudio\BudgetTracker\BTCore\obj\Debug\BTCore.pdb
